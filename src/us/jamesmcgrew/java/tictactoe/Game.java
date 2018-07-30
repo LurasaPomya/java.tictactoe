@@ -1,4 +1,4 @@
-package us.jamesmcgrew.java.games.tictactoe;
+package us.jamesmcgrew.java.tictactoe;
 
 import java.util.Scanner;
 
